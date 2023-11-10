@@ -43,10 +43,4 @@ Este es un proyecto simple que muestra cómo validar una dirección de correo el
 
 Si deseas contribuir al proyecto o realizar mejoras, no dudes en enviar un pull request o abrir un issue.
 
-## Licencia
 
-Este proyecto se encuentra bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
-
-¡Espero que este proyecto te sea útil! Si tienes alguna pregunta o necesitas ayuda, no dudes en ponerte en contacto.
-
-[¡Visita mi página web!](https://www.ejemplo.com)
